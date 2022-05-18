@@ -44,6 +44,7 @@ public class CorteCaja {
         cc.leerArchivo();
         
         Home home = new Home();
+        home.setTitle("ReporteCodi2.0");
         home.setVisible(true);
         
         

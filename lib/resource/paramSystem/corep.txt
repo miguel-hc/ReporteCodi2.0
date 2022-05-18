@@ -1,7 +1,7 @@
-#Tue May 17 20:28:08 CDT 2022
+#Wed May 18 12:38:04 CDT 2022
 tienda=SUPER EXPRESS
 ncorteauxiliar=2
 numboucher=8
 encargado=MIGUEL HERNANDEZ CASTELLASNO
 ncortemayoreo=4
-ncortemenudeo=6
+ncortemenudeo=7
