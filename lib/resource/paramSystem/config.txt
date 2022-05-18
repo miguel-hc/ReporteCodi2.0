@@ -1,0 +1,6 @@
+mostrarproperties=si
+usuario=admin
+pass=admin123
+url=jdbc:firebirdsql:localhost/3050:C:/Program Files (x86)/Common Files/Aspel/Sistemas Aspel/SAE8.00/Empresa01/Datos/SAE80EMPRE01.FDB?charSet=UTF8
+userdb=SYSDBA
+passdb=masterkey
